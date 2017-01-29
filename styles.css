@@ -1,0 +1,35 @@
+body {
+    margin-left: 100px;
+    padding-left: 100px;
+    margin-right: 100px;
+    padding-right: 100px;
+    margin-top: 70px;
+    padding-top: 70px;
+    margin-bottom: 70px;
+    padding-bottom: 70px;
+    border:2px solid sienna
+}
+p {
+    color:sienna
+}
+ul{
+    color:sienna
+}
+img{
+    margin-left: 325px;
+    margin-right: 350px;
+    border:2px solid black
+}
+header{
+    font-family:critter, fantasy
+}
+.title{
+    font-size: 20px;
+    color:#63331c
+}
+#background{
+    background-color: aqua
+}
+li{
+    color:#63331c
+}
